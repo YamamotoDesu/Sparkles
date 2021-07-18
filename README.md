@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=YosPD7eFvcE
 <br><br>
 
 ## Usage
-UIKit(CAEmitterLayer、CAEmitterCell)
+UIKit(CAEmitterLayer、CAEmitterCell)<br>
 CAEmitterLayer defines the position
 ```swift
 let layer = CAEmitterLayer()
